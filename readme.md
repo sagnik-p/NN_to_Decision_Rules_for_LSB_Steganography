@@ -2,12 +2,11 @@
 ## The Problem:
 Neural Network models are Resource Intensive. What if we want to deploy this model on a resource constrained device, such as a microcontroller? 
 
-## Need:
+## The Need:
 Given a neural network model, we need to have faster inference and lesser memory usage. 
 
-## Results:
+## The Results of this Project:
 4x Speedup in inference time (average) and 52% lesser memory usage
-
 
 
 
@@ -26,4 +25,6 @@ Run the Jupyter Notebook cell by cell
 
 ---
 ---
+
+### NOTE: The application chosen here is Image Classification: Steganography. (whether something is hidden in an image or not). The dataset is taken from IEEE dataport.
 # Thank you
